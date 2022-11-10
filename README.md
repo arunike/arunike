@@ -47,9 +47,8 @@
 </p>
 
 ## :fire: &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arunike&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunike&langs_count=10&hide=assembly,makefile,perl,m4,lua,dtrace,shell,c,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=arunike&show_icons=true)
----
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arunike&theme=dark&background=000000)](https://git.io/streak-stats)
