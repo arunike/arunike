@@ -29,7 +29,7 @@
 ### &nbsp; Frameworks and libraries:
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="ttps://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp; 
 </p>
 
 ### &nbsp; Databases:
@@ -45,7 +45,7 @@
 ## :fire: &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arunike&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunike&langs_count=10&hide=assembly,makefile,perl,m4,lua,dtrace,shell,c,cpp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunike&langs_count=10&hide=assembly,makefile,perl,m4,lua,dtrace,shell,c,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=arunike&show_icons=true)
 ---
