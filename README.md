@@ -10,7 +10,7 @@
 
 - :office: I’m curently working as Software Engineer and contributing to frontend and backend for building web applications.
 - :globe_with_meridians: Visit my <a href="https://arunike.github.io/" target="blank">portfolio website</a> to learn more about me. 
-- :email: How to reach me: &nbsp; [![Linkedin Badge]((https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg])(https://www.linkedin.com/in/richiezhou/)
+- :email: How to reach me: &nbsp; <a href="https://www.linkedin.com/in/richiezhou" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 ## 🛠 &nbsp; Language and Tools:
 
