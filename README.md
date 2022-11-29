@@ -47,7 +47,7 @@
 </p>
 
 ## :fire: &nbsp; My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunike&layout=compact&langs_count=8&hide=assembly,makefile,perl,m4,lua,dtrace,shell,c,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunike&layout=compact&langs_count=8&hide=assembly,makefile,perl,m4,lua,dtrace,shell,c,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=arunike&show_icons=true)
 
