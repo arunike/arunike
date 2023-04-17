@@ -6,7 +6,7 @@
 
 ## About Me :
 
-:computer: I'm Richie Zhou, a junior Computer Science student at <a href="https://www.cs.wisc.edu/" target="blank">University of Wisconsin-Madison</a>.
+:computer: I'm Richie Zhou, a junior Computer Science & Data Science student at <a href="https://www.cs.wisc.edu/" target="blank">University of Wisconsin-Madison</a>.
 
 - :office: I’m curently working as Software Engineer and contributing to frontend and backend for building web applications.
 - :globe_with_meridians: Visit my <a href="https://arunike.github.io/" target="blank">portfolio website</a> to learn more about me. 
