@@ -1,8 +1,8 @@
 # Hello :wave:
 
-![status](https://img.shields.io/badge/status-up-brightgreen) 
+![Status](https://img.shields.io/badge/status-up-brightgreen) 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
-![](https://komarev.com/ghpvc/?username=arunike&color=c770f0)
+![Visitor](https://komarev.com/ghpvc/?username=arunike&color=c770f0)
 
 <img align='right' src='https://octodex.github.com/images/codercat.jpg' width='200'>
 
