@@ -45,6 +45,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SqlServer" alt="SqlServer" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="mysql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/techstack/snowflake.png" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
 </p>
 
 ### &nbsp; Other:
