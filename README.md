@@ -8,9 +8,10 @@
 
 ## About Me :
 
-:computer: I'm Richie Zhou, a senior Computer Science & Data Science student at <a href="https://www.cs.wisc.edu/" target="blank">University of Wisconsin-Madison</a>.
+:computer: Hello, I'm Richie Zhou. Currently, I'm a senior studying Computer Science & Data Science at the <a href="https://cdis.wisc.edu/" target="blank">University of Wisconsin-Madison</a>.
+<!-- :computer: Hello, I'm Richie Zhou. Currently, I'm pursuing my master's in Computer Science at <a href="" target="blank">University</a>. Previously, I earned my bachelor's degree in Computer Science & Data Science from the <a href="https://cdis.wisc.edu/" target="blank">University of Wisconsin-Madison</a>. -->
 
-- :office: I’m curently working as Software Engineer and contributing to frontend and backend for building web applications.
+- :office: I’m currently working as Software Engineer and contributing to frontend and backend for building web and mobile applications.
 - :globe_with_meridians: Visit my <a href="https://arunike.github.io/" target="blank">portfolio website</a> to learn more about me. 
 - :email: How to reach me: &nbsp; <a href="https://www.linkedin.com/in/richiezhou"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
