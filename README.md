@@ -20,10 +20,10 @@
 ### &nbsp; Programming languages:
 <p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cpp" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="r" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="c" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cpp" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="r" width="40" height="40"/>&nbsp;
     <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/sql.png" title="SQL" alt="sql" width="40" height="40"/>&nbsp;
 </p>
 
@@ -38,8 +38,9 @@
 ### &nbsp; Frameworks
 <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="react" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="vue" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/react-native.png" title="React Native" alt="react native" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="spring boot" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="vue" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="nodejs" width="40" height="40"/>&nbsp;
 </p>
@@ -47,10 +48,10 @@
 ### &nbsp; Databases:
 <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="mysql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="firebase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/snowflake.png" title="Snowflake" alt="snowflake" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="redis" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="firebase" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Sql Server" alt="sql server" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/snowflake.png" title="Snowflake" alt="snowflake" width="40" height="40"/>&nbsp;
 </p>
 
 ### &nbsp; Tools:
@@ -58,15 +59,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="k8s" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery" alt="jquery" width="40" height="40"/>&nbsp;
     <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/json.png" title="JSON" alt="json" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery" alt="jquery" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line.svg" title="Tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
-    <!-- <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/spark.png" title="Spark" alt="spark" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/cassandra.png" title="Cassandra" alt="Cassandra" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/kafka.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/hdfs.png" title="HDFS" alt="HDFS" width="40" height="40"/>&nbsp; -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="redux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="ThreeJS" alt="threeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/spark.png" title="Spark" alt="spark" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/hdfs.png" title="HDFS" alt="HDFS" width="40" height="40"/>&nbsp; 
+    <!-- <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/cassandra.png" title="Cassandra" alt="Cassandra" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/kafka.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp; -->
 </p>
 
 ### &nbsp; Other:
